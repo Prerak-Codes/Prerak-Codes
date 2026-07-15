@@ -86,14 +86,20 @@
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prerak-Codes\&show_icons=true\&theme=tokyonight)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prerak-Codes\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prerak-Codes\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Prerak-Codes\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prerak-Codes\&theme=tokyonight) -->
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prerak-Codes&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prerak-Codes&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Prerak-Codes&theme=github-dark-blue&hide_border=true)
 ---
 
 ## 🌱 Currently Learning
