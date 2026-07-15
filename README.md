@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Second-year Computer Engineering student at SVIT
+🎓 Third-year Computer Engineering student at SVIT
 🤖 Aspiring AI & Machine Learning Engineer
 💻 Passionate about Full-Stack Development and Open Source
 📚 Currently learning Python, Machine Learning, Deep Learning, and Full-Stack Development
