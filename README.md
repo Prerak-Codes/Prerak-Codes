@@ -121,7 +121,7 @@
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/Prerak-Codes
-* LinkedIn: (https://www.linkedin.com/in/prerak-thakkar-55727a2b6/)
+* LinkedIn: https://www.linkedin.com/in/prerak-thakkar-55727a2b6/
 
 ---
 
