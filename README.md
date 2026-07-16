@@ -63,8 +63,6 @@
 
 ### 🧠 AI Research
 
-* Explainable AI-Based Brain Tumor Detection using Deep Learning
-* Climate Prediction using El Niño Data
 * Fine-Tuning TinyLlama using LoRA & QLoRA
 
 ### 🌐 Full Stack
