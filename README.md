@@ -2,18 +2,18 @@
 
 # 👋 Hey, I'm Prerak Thakkar
 
-### 🤖 AI/ML Engineer in the Making · 💻 Full-Stack Developer · 🔬 AI Research Enthusiast
+### 💻 Full-Stack Developer ·  🤖 AI/ML Engineer Enthusiast
 
 <p>
   <a href="https://github.com/Prerak-Codes">
-    <img src="https://img.shields.io/badge/GitHub-Prerak--Codes-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Prerak--Codes-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/prerak-thakkar-55727a2b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prerak%20Thakkar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Prerak%20Thakkar-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-📍 Gujarat, India &nbsp; • &nbsp; 🎓 Computer Engineering Student &nbsp; • &nbsp; 🚀 Building with AI
+📍 Gujarat, India · 🎓 Computer Engineering Student 
 
 </div>
 
@@ -21,258 +21,131 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Engineering student** passionate about building software that solves real-world problems.
+I'm a Computer Engineering student who enjoys turning **ideas into working software**.
 
-My journey started with **Full-Stack Development** and gradually evolved into **Machine Learning, Deep Learning, Generative AI, and AI-powered applications**.
+My journey started with web development and gradually moved toward **Machine Learning, Deep Learning, Generative AI, and AI-powered applications**.
 
-I'm especially interested in the intersection of **AI and real-world impact**, with a focus on:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI & Large Language Models
-- 🔬 Explainable AI & AI Research
-- 🩻 Healthcare & Medical AI
-- 🌦️ Climate & Environmental AI
-- 🌐 AI-powered Full-Stack Applications
-
-> **My goal:** Learn deeply, build consistently, and create AI systems that actually make a difference.
+I'm interested in building systems where **AI meets real-world problems**.
 
 ---
 
-## ⚡ What I Do
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-
-Building and experimenting with:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- LLMs
-- RAG Systems
-- Explainable AI
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Development
-
-Building complete applications with:
-
-- React & Modern Frontends
-- REST APIs
-- Node.js & FastAPI
-- Databases
-- Authentication
-- AI-powered Backends
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,c,java,js" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
 </p>
 
-### 🧠 AI / Machine Learning
+### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
 ### 💰 FinVerse AI
 
-> **AI-powered Financial Identity & Investment Guidance Platform**
+AI-powered financial identity and investment guidance platform.
 
-A fintech platform designed to help users understand their financial health, build alternative credit profiles, and make informed investment decisions.
-
-**Built with:**  
-`React` · `AI` · `FinTech` · `Explainable AI`
+`React` `AI` `FinTech`
 
 ---
 
-### 🧠 Explainable AI Brain Tumor Detection
+### 🧠 Fine-Tuning TinyLlama
 
-> **Deep Learning + Explainable AI for MRI Analysis**
+Fine-tuning TinyLlama using **LoRA & QLoRA**.
 
-Exploring deep learning models for brain tumor detection and classification while making model predictions more interpretable using explainability techniques.
-
-**Focus:**  
-`Deep Learning` · `Computer Vision` · `Grad-CAM` · `LIME` · `SHAP`
+`Python` `Transformers` `PEFT` `Hugging Face`
 
 ---
 
 ### 🌱 GreenVision
 
-> **AI-Powered Waste Classification**
+AI-powered waste classification system.
 
-A computer vision-based system designed to classify waste and encourage smarter waste management.
-
-**Built with:**  
-`Python` · `Machine Learning` · `Computer Vision`
+`Python` `Machine Learning` `Computer Vision`
 
 ---
 
 ### 🩸 HopeBank
 
-> **Digital Blood Donation Platform**
+Digital blood donation platform.
 
-A platform designed to connect blood donors with people who need urgent blood support.
-
-**Built with:**  
-`React` · `Node.js` · `MongoDB`
+`React` `Node.js` `MongoDB`
 
 ---
 
 ### 🧭 CareerCompass
 
-> **AI-Powered Career Guidance Platform**
+AI-powered career guidance platform.
 
-An AI-powered platform that helps students explore career paths and discover relevant opportunities.
-
-**Built with:**  
-`AI` · `LLMs` · `React` · `FastAPI`
+`AI` `LLM` `React` `FastAPI`
 
 ---
 
 ### 🏦 AssetFlow
 
-> **Enterprise Asset Management System**
+Enterprise asset management system.
 
-A centralized platform for managing organizational assets, allocation, tracking, and lifecycle operations.
-
-**Built with:**  
-`React` · `TypeScript` · `Node.js` · `MongoDB`
+`React` `TypeScript` `Node.js` `MongoDB`
 
 ---
 
-# 🔬 Research & AI Exploration
+## 📚 Currently Learning
 
-I'm interested in exploring AI beyond simply building applications.
-
-| Area | Focus |
-|---|---|
-| 🧠 **Explainable AI** | Making AI predictions more transparent and interpretable |
-| 🩻 **Healthcare AI** | Applying AI to medical imaging and healthcare problems |
-| 🌦️ **Climate AI** | Exploring AI for climate and environmental analysis |
-| 🤖 **Generative AI** | LLMs, fine-tuning, RAG, and AI agents |
+`Machine Learning` · `Deep Learning` · `Transformers` · `LLMs` · `RAG` · `AI Agents` · `FastAPI` 
 
 ---
 
-# 📚 Currently Learning
+## 🏆 Highlights
 
-<p align="center">
-
-`Machine Learning` → `Deep Learning` → `Generative AI` → `LLMs` → `RAG` → `AI Agents`
-
-</p>
-
-I'm continuously improving my skills in:
-
-- 🧠 Machine Learning & Deep Learning
-- 🤖 Large Language Models
-- 🔗 Retrieval-Augmented Generation
-- 🧩 AI Agents
-- 🌐 Full-Stack Development
-- 🗄️ Backend Systems & Databases
-- 📊 Data Structures & Algorithms
+- 🏅 Participated in multiple Hackathons
+- 🚀 Building AI & Full-Stack Projects
 
 ---
 
-# 🏆 Highlights
+## 🎯 2026 Goals
 
-- 🏅 Participated in multiple hackathons
-- 🚀 Built AI and full-stack applications
-- 🔬 Exploring AI research and research publication
-- 💻 Learning by building real-world projects
-- 🌱 Interested in open-source collaboration
+- 🤖 Build impactful AI applications
+- 🌐 Improve my Full-Stack Development skills
+- 🌍 Contribute to Open Source
 
 ---
-
-# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prerak-Codes&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+### 💬 Let's Connect
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prerak-Codes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+**Always learning. Always building.**
+<a href="https://www.linkedin.com/in/prerak-thakkar-55727a2b6/">LinkedIn</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Prerak-Codes&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Mission
-
-> **Learn → Build → Research → Share**
-
-- 🔬 Publish my first AI research paper
-- 🤖 Build impactful AI applications
-- 🧠 Strengthen my ML & Deep Learning fundamentals
-- 🌐 Become a stronger Full-Stack Developer
-- 🌍 Contribute to Open Source
-- 🚀 Keep building solutions for real-world problems
-
----
-
-<div align="center">
-
-## 💬 Let's Connect
-
-### Always learning. Always building. Always experimenting.
-
-<p>
-  <a href="https://github.com/Prerak-Codes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prerak-thakkar-55727a2b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-⭐ **If you find something interesting here, feel free to explore my repositories!**
+⭐ *If you find something interesting here, feel free to explore my repositories!*
 
 </div>
