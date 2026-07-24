@@ -4,14 +4,10 @@
 
 ### 💻 Full-Stack Developer ·  🤖 AI/ML Engineer Enthusiast
 
-<p>
-  <a href="https://github.com/Prerak-Codes">
-    <img src="https://img.shields.io/badge/GitHub-Prerak--Codes-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/prerak-thakkar-55727a2b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prerak%20Thakkar-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Prerak--Codes-181717?style=flat\&logo=github)](https://github.com/Prerak-Codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prerak%20Thakkar-0A66C2?style=flat\&logo=linkedin)](https://www.linkedin.com/in/prerak-thakkar-55727a2b6/)
 
 📍 Gujarat, India · 🎓 Computer Engineering Student 
 
@@ -29,40 +25,34 @@ I'm interested in building systems where **AI meets real-world problems**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,js" />
-</p>
+👨‍💻 Languages
 
-### 🎨 Frontend
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
-</p>
+🎨 Frontend
 
-### ⚙️ Backend & Databases
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
-</p>
+⚙️ Backend
 
-### 🤖 AI / ML
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+🗄️ Database
 
-### 🔧 Tools
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+🤖 AI / ML
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+🔧 Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 
 ---
 
